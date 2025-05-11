@@ -68,6 +68,9 @@ body {
   border: none;
   padding: 5px;
 }
+input[type="text"] {
+  font-weight: 700;
+}
 
 .generateBtn {
   background-color: #012860;
