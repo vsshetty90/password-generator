@@ -17,6 +17,9 @@ body {
   width: 350px;
   padding: 20px;
   text-align: center;
+  -webkit-box-shadow: 12px 15px 0px 0px #001d47;
+  -moz-box-shadow: 12px 15px 0px 0px #001d47;
+  box-shadow: 12px 15px 0px 0px #001d47;
 }
 
 .passwordContent {
